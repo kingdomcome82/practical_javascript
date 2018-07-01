@@ -9,3 +9,4 @@ var test2 = "test2";
 //comment
 //comment2
 //comment3
+//commit check

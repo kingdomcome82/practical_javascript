@@ -4,3 +4,7 @@ if (true === false) {
   var second = 2;
   var third = 3;
 }
+
+var test2 = "test2";
+//comment
+//comment2
